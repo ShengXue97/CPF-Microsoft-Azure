@@ -1,0 +1,201 @@
+﻿,body,urgency,keywords,sentiments
+0,Need access to my financial information.,4,access financial information,0.190797865
+1,How do i open a cpf account?,3,cpf account,0.838047504
+2,I have troubles logging in to my CPF account.,4,troubles CPF account,0.070860356
+3,I forgot my singpass password.,4,singpass password,0.007142663
+4,I have encountered a problem when using the online nomination service. Can you help me please?,2,problem online nomination service,0.751052022
+5,I want to add a beneficiary so that they can get my bequest.,2,beneficiary bequest,0.738036096
+6,Need valuation report to use my CPF savings to purchase property.,2,CPF savings valuation report property,0.5
+7,Am i eligible for the Drive and Save scheme?,2,Drive scheme,0.749246597
+8,I need access to Medisave/Medishield reimbursement via E-file transfer.,3,Medishield reimbursement E-file transfer Medisave access,0.5
+9,There is a bug in the cpf mobile app.,3,bug cpf mobile,0.5
+10,I want to set up a direct debit authorisation arrangement with my bank for deduction of service fees. How can i start?,4,bank direct debit authorisation arrangement deduction of service fees start,0.261814475
+11,My kid keeps saying that it is possible to receive my cpf savings via paynow. What exactly is paynow?,2,paynow cpf savings kid,0.5
+12,How can i install paynow to receive my cpf savings? ,2,paynow cpf savings,0.780078292
+13,"I am currently not working, am I not entitled to cpf contributions?",1,cpf contributions,0.270469874
+14,"Hello, the app is behaving strangely, blue screen is appearing in middle.",5,blue screen app middle,0.729058266
+15,My Internet is not working.,5,Internet,0.002755821
+16,"Account got locked, because of 3 wrong attempts os password. Could you please reset the password",5,wrong attempts os password Account,0.058495462
+17,Website hangs.,4,Website hangs,0.787863255
+18,Unable to connect to Internet.,4,Internet,0.024649531
+19,What is the difference between medisave and medishield life?,1,difference medisave medishield life,0.793619871
+20,Is the House Protection Scheme premium deducted from my cpf account? How do i pay for it? ,1,House Protection Scheme premium cpf account,0.913324356
+21,What if my cpf account balance is not enough to cover the House Protection Scheme premium?,2,House Protection Scheme premium cpf account balance,0.855951309
+22,"Forgot the password, can you please reset the password for me.",4,password,0.091659516
+23,Do i need to contribute to Medisave even when I am rich and have enough for my healthcare needs?,3,healthcare needs Medisave,0.78664887
+24,How much do I have to pay to use myCPF?,2,myCPF,0.091373503
+25,My workfare cheque has just expired. Please help. ,4,workfare cheque,0.052866876
+26,I can't seem to log in to my cpf account using singpass. Is my account locked?,4,cpf account singpass,0.0900141
+27,How do I change my contact information such as my email and my phone number?,3,email contact information phone number,0.243475795
+28,"I heard that due to the coronavirus, employers can receive a grant on the monthly wages of their employees on their cpf payroll, is that really true?",2,grant employees cpf payroll monthly wages coronavirus employers,0.266892314
+29,What is the lease buyback scheme? And am I eligible for it?,2,lease buyback scheme,0.769811273
+30,I am retired. How much can I withdraw from my cpf account?,4,cpf account,0.810145736
+31,How do i change my cpf nomination?,1,cpf nomination,0.71642971
+32,How can I join cpf life? ,1,cpf life,0.91469872
+33,The cpf contribution details I submitted for my employee have a few mistakes. Can i delete and resubmit it?,4,employee cpf contribution details mistakes,0.121136904
+34,"I just changed my name, how can i update my name associated with my cpf account? ",3,cpf account,0.869800568
+35,Is it advisable to invest my cpf savings under the CPFIS? Are there any risks associated with it? ,3,cpf savings CPFIS risks,0.25637114
+36,"My father is mentally ill, can he still make a cpf nomination?",4,father cpf nomination,0.5
+37,Can i make a cpf nomination for my family member? ,3,cpf nomination family member,0.5
+38,I have sent a query to cpf a few days ago and I haven't gotten a reply yet. How long do I have to wait to get a reply from you?,5,query cpf days reply,0.093297482
+39,What is the number of cpf call centre? ,2,number of cpf centre,0.5
+40,I forgot to delete the original file with same file ID in Generic Data Exchange Centre.,2,file ID original file Generic Data Exchange Centre,0.072050095
+41,"I am currently on an internship programme, does my employer have to make cpf contributions?",3,employer internship programme cpf contributions,0.737474442
+42,Do i need to be insured under the Home Protection Scheme if I am using cash to pay monthly housing instalments?,2,cash monthly housing instalments Home Protection Scheme,0.819819331
+43,"I have lost a family member, what should I do now? ",5,family member,0.051622868
+44,"My child is very sick, can I use my medisave to pay for his medical treatments? And how can I do so?",5,medisave medical treatments child,0.104024589
+45,Is it safe to submit employee details through the internet? ,2,employee details internet,0.89377439
+46,Can I close the cpf website without logging off? ,2,cpf website,0.5
+47,Why does the cpf website keeps freezing? Can you fix it?,4,cpf website,0.086155534
+48,My cpf account balance is incorrect. What do I do now?,5,cpf account balance,0.101928443
+49,I recently changed my mobile number and I can't log in to singpass anymore.,4,mobile number singpass,0.161437869
+50,Nothing appears on the cpf website after logging in.,3,cpf website logging,0.319886982
+51,My mouse is lagging on the cpf website. Why?,1,mouse cpf website,0.245276034
+52,"There are black borders on the cpf website, can you fix it?",2,black borders cpf website,0.749867678
+53,"I am unable to display the cpf website, what should I do?",4,cpf website,0.083868206
+54,What should I do when my cpf website keep loading? I am unable to log in.,4,cpf website loading,0.109804004
+55,"The website design is so ugly, can you change it.",1,website design,0.149775237
+56,Opening cpf website crashes my laptop. Why?,3,cpf website laptop,0.224737227
+57,What is a computer virus?,1,computer virus,0.248033941
+58,"I believe that my balance for my Medisave account incorrect. I would like to investigate, and see my records for my medisave account.",5,Medisave account incorrect balance records,0.232538402
+59,I want to create a new account.,2,new account,0.789322376
+60,How do I change my particulars for my current account? ,3,particulars current account,0.786674976
+61,"My email, phone and password for my cpf account have been changed!! It is not mine!!! Please help.",5,password phone cpf account email,0.260950685
+62,My laptop was infected with a virus. Will it affect the security of my cpf account?,2,security cpf account laptop virus,0.086284816
+63,"My house's wifi is so bad, I can't even access my cpf account lol",1,house's wifi cpf account,0.108813822
+64,How do I use my CPF funds for my husband? He is sick and his cpf account do not have enough to cover his hospital bills.. please help,5,CPF funds cpf account husband hospital bills,0.13944
+65,hehehehehehhehehee thankyu 4 ur hardwork,1,hehehehehehhehehee thankyu ur hardwork,0.783624053
+66,Thank you for answering my previous enquiry! Helped me a lot :),1,previous enquiry lot,0.998109698
+67,"Hello, is there a indian version of the website? My grandma can't understand english.",2,indian version website grandma,0.900536537
+68,Can I know what contributes to the various accounts?? How come my that Ordinary account so much more money than special account.,3,special account Ordinary account money various accounts,0.244352967
+69,Can I transfer money from one account to another?,2,money account,0.72256881
+70,"Hello I have not enough money in my Ordinary Account to buy house, can I take money from my special account instead?",2,money Ordinary Account special account house,0.919315338
+71,Can I give some of my money to my kids? ,2,money kids,0.764929414
+72,I feel like your website have too much text. Please make it nicer.,1,website text,0.218639374
+73,I would like to deposit more money into my account. How do I do this?,3,money account,0.246727914
+74,How do I get my records?,2,records,0.800781846
+75,Do you have a phone version ah?,1,phone version ah,0.776973009
+76,"I am going to get married to a Singaporean soon! I will convert soon after, so may I know if I have to apply for a CPF account, or will it be automatically set up for me? ",4,CPF account Singaporean,0.777230382
+77,"Hey, I am going to convert my nationality soon, so how do I take all my money out from my account? Since I am no longer going to be singaporean anymore, so I do not need this account.",4,account money nationality singaporean,0.189063817
+78,Can you stop making me change password every once in a while??? Annoying.,2,password,0.122335494
+79,If I earn more do I contribute to my accounts more?,2,accounts,0.771434247
+80,Do I get interest for all the money in this account?,2,money account,0.245081782
+81,What happens to all these money if I die? Will my wife or children get them?,4,wife children money,0.056624025
+82,Can I put my cpf account money into my will? ,3,cpf account money,0.746376634
+83,Testing,1,Testing,0.843900323
+84,How do I deactivate this account? Don't want it.,3,account,0.166558236
+85,What is the age for me to take out all my money?,3,age money,0.206914455
+86,Will I be able to transafer my money into my children's account? I would like to give them some support as they are buying their bto now.,4,money children's account support bto,0.792710304
+87,"I accidentally closed my laptop before logging out, will it be fine?",2,laptop,0.159309894
+88,"I no english, can chinese?",2,chinese,0.749749899
+89,"Can I buy condominium with my Ordinary Account, or only hdb?",3,Ordinary Account condominium hdb,0.5
+90,"I think there is a mistake in the system, my account balance is not increasing even though I am earning money monthly.",5,system account balance mistake money,0.13188532
+91,"Please, I need the money now. I have no more money in my bank and I need to live...",4,money bank,0.063240469
+92,How do I add more money to my medisave account?,3,money medisave account,0.852662444
+93,Can I do online shopping with these money?,2,online shopping money,0.857283235
+94,What is this account for???? What is cpf??,3,account cpf,0.705974519
+95,Can you mail me my account history and summary? I don't like digital.,3,account history summary,0.085396498
+96,Can I use my ordinary account to pay for my school fees? My school fees are too much..,3,school fees ordinary account,0.257609636
+97,My husband just passed away... What should I do with his cpf account?,4,cpf account husband,0.154824048
+98,Who can I use my medisave for?,3,medisave,0.862853587
+99,Can I use my CPF Money to pay for my home after I turn 55?,3,CPF Money home,0.724572659
+100,Can I still withdraw money from my CPF account when I turn 55?,2,money CPF account,0.235007554
+101,What happens to the money in my CPF account after I pass on?,2,money CPF account,0.150416702
+102,How old do I have to be to start a CPF account?,1,CPF account,0.207338989
+103,"My login credentials are not working, how do I reset my password?",4,login credentials password,0.075510502
+104,The account was blocked due to three wrong password attempts. Could you please reset the password?,3,wrong password attempts account,0.026681453
+105,Is there a way for me to receive updates automatically whenever there is a transaction in my CPF account?,2,transaction updates CPF account way,0.758700371
+106,How do I start a CPF account for my child?,1,CPF account child,0.785301089
+107,Do I need to pay CPF when I am just an intern undergoing an internship programme?,2,internship programme CPF,0.322912902
+108,Will CPF be deducted from my bonus too?,1,CPF bonus,0.73097688
+109,Is there an annual limit to the amount of CPF money that I need to pay?,2,annual limit CPF money,0.259090722
+110,"I would like to apply for a full-time job at CPF Singapore, may I know how I may submit my application?",3,full-time job CPF Singapore application,0.5
+111,Is there an annual limit to the amount of CPF money that I can withdraw in a year?,1,CPF money annual limit year,0.743377686
+112,"I would like to use both my and parent's CPF account to pay for my university school fees, how do I do that?",4,parent's CPF account university school fees,0.167654127
+113,"My account is locked, and I am not able to login.",4,login account,0.0950661
+114,Can I earn interest rates from my CPF account balance?,2,rates CPF account balance,0.773893952
+115,"I am planning to migrate immigrate to Australia next year, may I know the procedures involved to retrieve my CPF account money?",4,procedures CPF account money year Australia,0.786526263
+116,"My pet dog is very sick, can I withdraw some of my CPF money to pay for the visit to the doctor?",5,visit pet dog CPF money doctor,0.140433013
+117,"How do I opt out of this CPF scheme, I think that it is useless and I am capable of saving my own money.",1,CPF scheme money,0.179338127
+118,"I need my CPF money for an emergency right now!! My dad is in critical health condition, and the CPF staff are so slow in responding to my requests. ",5,CPF staff CPF money critical health condition dad emergency requests,0.087966681
+119,"I want to lodge a complaint against one of your CPF staff! She raised her voice at me when I asking a question, this is extremely unacceptable.",5,complaint CPF staff question voice,0.062973201
+120,"Can you please ensure that your staff are picking up the calls or increase the manpower, I have to wait for an eternity whenever I make a call to your hotline.",5,calls manpower staff eternity hotline,0.290163279
+121,"Hello!! I sent my last support ticket over a day ago, where is my reply?? I am in a hurry and I have no time to wait this long.",5,day support ticket hurry time reply,0.227222294
+122,I have lost all my money gambling and have no money left to even buy food and water. I would like to withdraw my CPF money now so that I can recoup my losses later this week. ,5,money gambling CPF money food losses week water,0.020436347
+123,Hi can you see this,1,NoKeywordsFound,0.94844991
+124,"I just received my company pay last week and I went to check on my CPF account balance today, but it is not updated, can you please give me the transaction history and also help me to look into this?",4,CPF account balance company week transaction history,0.15759328
+125,"My CPF account balance is not correct, may I check the transaction history please?",4,CPF account balance transaction history,0.084847391
+126,"$10,000 SGD is missing from my CPF account omg!! PLEASE help me look into this ASAP, I called the CPF hotline 10 times just now and they are not replying me, I am so lost and agitated right now.",5,CPF hotline CPF account SGD ASAP times,0.032725602
+127,How much of my CPF money will I be able to withdraw once I turn 55? Please advice.,2,CPF money advice,0.247926205
+128,Can I choose not to withdraw my CPF money when I reach 55?,1,CPF money,0.303165942
+129,I have a terminal illness and the doctor have estimated that I have only about 5 months left to leave. I would like to withdraw my CPF money so that I can make one last trip around the world with my lovely wife. Could you please advice me on how I can go through this process? Thank you so much.,5,world lovely wife terminal illness doctor trip CPF money process months advice,0.223166883
+130,"I need to withdraw my CPF money right now to pay for my son's surgery, as I do not have enough savings to afford it. Please give me my CPF moeny back as soon as possible, I am in a real hurry. ",5,CPF money CPF moeny real hurry son's surgery savings,0.05672586
+131,"I borrowed a huge sum from loan sharks and now I am in a huge debt. They are going to hurt me if I do not give them the full sum of $5000 by tomorrow midnight, can I please withdraw my CPF money to pay back this money!! I will do anything for this, please read this now, it is very urgent and my life is at stake. I really need the moeny desperately as none of my family members or friends are able to afford such a huge sum, and I know that my CPF account balance is enough to pay for this.",5,huge sum CPF money huge debt CPF account balance family members friends loan sharks life stake tomorrow midnight moeny,0.109926254
+132,"Hello this is just a test, can you please reply if you can receive this",1,test,0.889007092
+133,"I keep calling your damn hotline and nobody answers. What the bloody hell, what kind of useless service is this, I am in an emergency and nobody answers my call. Can you reply to this support ticket right now, I have no time to wait for this bullshit service.",5,bullshit service kind of useless service bloody hell time damn hotline support ticket emergency,0.019343734
+134,"I just called one of your staff earlier today. I need the money immediately for an emergency and private reason which I cannot disclose. I almost reached the point of begging your staff but he keeps telling me that he has to follow the rules. What the fuck is this? It is my hard-earned money and I cannot receive back my money when I fucking need it urgently? Call the manager right now, I want to speak to him about this.",5,hard-earned money staff emergency private reason point manager rules fuck,0.05048573
+135,Do I need to pay CPF when I am doing my part-time job of $8 per hour at macdonalds?,2,part-time job hour macdonalds CPF,0.5
+136,"Wow, this is totally such a great idea, CPF. I need to put the money I earned into an account and never receive it until I reach 55, yay. I am already earning such a small sum and yet you take 20% from me, thank you so much for that.",1,great idea CPF money account small sum Wow,0.936031699
+137,I used my CPF money to pay for my property a few years ago. May I know if I have to pay back the full CPF sum when I sell my property?,2,property CPF money CPF sum years,0.191613823
+138,Will my CPF savings be locked up if I do not withdraw everything once I turn 55?,2,CPF savings,0.265304446
+139,What happens to my CPF money which I did not withdraw if I pass away?,2,CPF money,0.074520469
+140,Will my CPF savings be given to my family members when I pass away? Will it go directly to their CPF savings or be given to them in cash?,2,CPF savings family members cash,0.5
+141,Will I need to pay back the CPF money that I used to purchase my flat when I sell the property?,3,CPF money property,0.124674946
+142,How much interests do I earn from my CPF?,2,interests CPF,0.811305881
+143,"I want to use my CPF account money to support my daughter in her overseas studies, may I know if that is possible?",4,daughter CPF account money overseas studies,0.5
+144,How do I join the CPF hackathon?,1,CPF hackathon,0.804947615
+145,Can I donate my CPF savings to the charity when I pass on?,4,CPF savings charity,0.5
+146,Where do my CPF money go when I pass away?,3,CPF money,0.121485054
+147,Can my CPF account be hacked? I have heard rumours going around about hackers stealing money from CPF.,2,CPF account hackers money rumours,0.115781903
+148,"The website hangs all the time, and I cannot check my CPF account balance.",3,CPF account balance website time,0.778722584
+149,How do I check my children's CPf account balance?,2,children's CPf account balance,0.736120462
+150,Excellent website! It is so informative and structured. Thank you!,1,Excellent website,0.991106272
+151,The website lags and does not respond after logging in!,3,website lags,0.214246005
+152,I cannot print out my CPF balance statement. Can you help me please??,2,CPF balance statement,0.738182425
+153,How do I make voluntary CPF contributions?,2,voluntary CPF contributions,0.778571129
+154,Can I create a new CPF account to replace my current one?,1,new CPF account,0.890291512
+155,The website is so sucky!,1,website,0.048712194
+156,How much will be in my ordinary account after I reach aged 55? How can I calculate this?,3,ordinary account,0.767332911
+157,Can I share my CPF account with my spouse?,2,CPF account spouse,0.795784891
+158,What is the difference among all the CPF LIFE plans?,2,difference CPF LIFE plans,0.735075533
+159,Why doesn't CPF give me higher interests? 4% is seriously low given how rich the Singapore government is.,1,Singapore government CPF higher interests,0.897664607
+160,How much interest does CPF retirement account give?,2,CPF retirement account,0.802886963
+161,"Complaint ahead. I went down to CPF board to enquire about CPF Life Payouts, and the staff was so unfriendly! She said that I can just go to the website to find my answer. This is unacceptable.",4,CPF board CPF Life Payouts staff website answer Complaint,0.051116019
+162,I would like to praise CPF staff for their friendly attitude in helping me set up CPF Life.,1,CPF staff CPF Life friendly attitude,0.947595835
+163,How can I get higher CPF LIFE monthly payouts?,2,higher CPF LIFE monthly payouts,0.774501204
+164,My wife is hospitalised with stage 2 lung cancer. We didn't buy any insurance. Will I be able to use my Medishield life to pay for chemotherapy and inpatient treatment? ,5,chemotherapy Medishield life stage lung cancer inpatient treatment wife insurance,0.122367024
+165,Can I use Medisave for outpatient medical services like medication?,4,medication Medisave outpatient medical services,0.835534811
+166,I am self-employed so I do not make CPF contributions. What should I do so I can save for retirement?,4,CPF contributions retirement,0.719258785
+167,How can I change my CPF Life bank details?,3,CPF Life bank details,0.76890552
+168,Why are there no CPF branches in Marina Bay? The nearest one is in Maxwell. That's like so far away!,1,CPF branches Marina Bay Maxwell,0.5
+169,The mobile version of the website is not web-responsive. Tech guys do something about it!,1,website mobile version web-responsive Tech guys,0.855278015
+170,The GST rates are increasing by 2022 but what about CPF interest rates?,1,GST rates CPF,0.241847187
+171,My dog is going for a surgery this Monday. Can I use Medisave to pay for his vet bills?,4,Medisave vet bills dog surgery,0.203951508
+172,CPF is such a great idea. Kudos to the Singapore government and CPF board!,1,CPF board Singapore government Kudos great idea,0.861988902
+173,The Singapore government is simply using our CPF savings as their spare budget. Going to emigrate elsewhere where there's no CPF when I grow up!,1,CPF savings spare budget Singapore government,0.5
+174,Why is my Ordinary Balance amount 0?? Where did all my money go!,4,Ordinary Balance money,0.254851043
+175,Is there a difference in cap when I use my Ordinary account to buy public housing compared to private housing?,3,public housing private housing Ordinary account cap difference,0.5
+176,"In the event I die today, will I lose my HDB flat?",3,HDB flat event,0.022279888
+177,How do I make a CPF nomination?,3,CPF nomination,0.858336568
+178,What is a CPF nomination?,3,CPF nomination,0.5
+179,Which account do I use for buying insurance? Is it only limited to certain insurance schemes or can I buy any insurance I want?,3,certain insurance schemes account,0.230731547
+180,How do I contribute to my special account?,3,special account,0.862051368
+181,What will happen to the balance in my CPF accounts after I die?,4,balance CPF accounts,0.072867841
+182,What is the ratio of my employer's contributions compared to my contributions?,3,employer's contributions ratio,0.265128791
+183,What happens when I run out of retirement money because I live longer than expected?,2,retirement money,0.021013737
+184,Does CPF organise talks for the public to learn about the relevant CPF accounts and schemes?,3,relevant CPF accounts public schemes talks,0.84309411
+185,How can I change the language of the website to Chinese?,3,language website Chinese,0.772266746
+186,Can I change my Singpass password online?,4,Singpass password,0.5
+187,I need money to settle my gambling debts. Can I withdraw money from my CPF to pay my debts?,3,money gambling debts CPF,0.142122209
+188,I want to invest but don't have spare capital to do so. Can I use money from my CPF?,3,spare capital money CPF,0.117501855
+189,How much should I contribute to my parents' CPF accounts? They have retired and no longer make CPF contributions,4,CPF contributions parents' CPF accounts,0.795520723
+190,I waited nearly 2 hours to ask a question at CPF board! It was way too long. You guys should consider improving the efficiency of your services,4,question CPF board efficiency hours guys services,0.759597778
+191,I work as a low-skilled worker so I don't make much CPF contributions. I am turning 40 this year. How should I do financial planning such that I have enough savings for retirement?,4,low-skilled worker savings financial planning CPF contributions retirement year,0.221425265
+192,Omg. I am at a loss. My brother just got into a car accident and requires long-term hospitalisation. We do not save regularly. How can I check if I have enough money in my CPF to help him?,5,car accident long-term hospitalisation brother money CPF loss,0.126799047
+193,Do I have to subscribe to CPF Life or is it an opt-out scheme?,3,CPF Life scheme,0.5
+194,I am an NUS student and is doing a project on CPF. Can I engage one of your staff to do an interview?,3,project NUS student staff interview CPF,0.5
+195,"My mother only understands mandarin and according to her, the staff who served her only knew how to speak english. Perhaps yall can consider more bilingual staff!",2,bilingual staff yall mother,0.5
+196,How do I apply for a job at CPF?,2,job CPF,0.5
+197,Does Medisave cover dental treatment expenses?,3,Medisave dental treatment expenses,0.22268644
+198,I am so confused by all the CPF schemes! Can I engage a consultant to explain the life-to-death involvement of CPF?,4,death involvement of CPF CPF schemes life consultant,0.5
+199,Can I use Medisave to foot medical bills at private hospitals?,3,medical bills private hospitals Medisave,0.765654087
