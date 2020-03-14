@@ -2,7 +2,7 @@
 Code for CPF Hackathon 2020 (Urgency checker for support tickets) : https://www.cpf.gov.sg/Members/Others/member-pages/cpf-hackathon-2020
 
 # Urgency checker
-1. Classify problems and feedbacks as urgent or not urgent.
+1. Classify problems and feedbacks into an urgency level from 1-10.
  a) User self classify(Everyone may just put as very urgent?)
  b) Text analysis to analysis & classify(Natural Language Processing)
   So that technical staff can prioritise what queries / issues to resolve first
