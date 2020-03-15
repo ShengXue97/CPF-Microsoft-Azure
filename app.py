@@ -201,5 +201,5 @@ def urgency():
             'urgency': result_tuple[3],
         })
         
-# if __name__ == '__main__':
-#     app.run(debug=False, port=8668)
+if __name__ == '__main__':
+    app.run(debug=False, port=8668)
