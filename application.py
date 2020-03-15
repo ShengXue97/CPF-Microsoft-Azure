@@ -9,7 +9,7 @@ from pprint import pprint
 import os
 import pandas as pd
 import numpy as np
-from flask import Flask, abort, jsonify
+from flask import Flask, request, abort, jsonify
 
 subscription_key = "cd0cf9855b244aa28c017742ed7a904c"
 endpoint = "https://cpftext.cognitiveservices.azure.com/"
@@ -186,5 +186,20 @@ app = Flask(__name__)
 def hello():
     return "Welcome to CPF Urgency Prediction Service!"
 
-if __name__ == '__main__':
-    app.run(debug=False, port=8668)
+@app.route("/urgency", methods=["POST"])
+def urgency():
+    urgency = request.json.get('sentence', None)
+    if urgency is None:
+        abort(403)
+    else:
+        result_tuple = get_urgency(urgency)
+        return jsonify({
+            'status': 'OK',
+            'statement': result_tuple[0],
+            'keywords': result_tuple[1],
+            'sentiment': result_tuple[2],
+            'urgency': result_tuple[3],
+        })
+        
+# if __name__ == '__main__':
+#     app.run(debug=False, port=8668)
