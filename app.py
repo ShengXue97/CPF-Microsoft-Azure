@@ -57,12 +57,12 @@ total_cnts_features_u5 = int(total_cnts_features['u5'])
 
 def predict_urgency(sentence):
     new_word_list = word_tokenize(sentence)
-    
+    print("hi")
     u_probabilities = {}
     with open('u_probabilities.csv', mode='r') as infile:
         reader = csv.reader(infile)
         u_probabilities = {rows[0]:rows[1] for rows in reader}
-
+    print(u_probabilities)
     u1_prob = int(u_probabilities['u1'])
     u2_prob = int(u_probabilities['u2'])
     u3_prob = int(u_probabilities['u3'])
