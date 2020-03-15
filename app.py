@@ -178,7 +178,7 @@ def get_urgency(x1):
     urgency_level_final = round(urgency_level + ((1 - sentiment) * 5))
     print("Urgency with sentiment: " + str(urgency_level_final))
     print("-------------------------")
-    return x1, keys, str(sentiment), str(urgency_level)
+    return x1, keys, str(sentiment), str(urgency_level_final)
 
 
 app = Flask(__name__)
