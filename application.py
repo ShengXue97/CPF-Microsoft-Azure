@@ -207,7 +207,7 @@ def get_urgency(x1):
     urgency_level_final = round(urgency_level + ((1 - sentiment) * 5))
     print("Urgency with sentiment: " + str(urgency_level_final))
     print("-------------------------")
-    return "Urgency Level: " + str(urgency_level_final)
+    return x1, keys, str(sentiment), str(urgency_level)
 
 # button1 = tk.Button(text='Get urgency level', command=call_urgency_predictor)
 # root.bind('<Return>', enter_button)
@@ -217,9 +217,25 @@ def get_urgency(x1):
 
 get_urgency("I want my cpf money now")
 
-from flask import Flask
+from flask import Flask, request, abort, jsonify
+
 app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return get_urgency("I want my cpf money now")
+    return "Welcome to CPF Urgency Prediction Service!"
+
+@app.route("/urgency", methods=["POST"])
+def urgency():
+    urgency = request.json.get('sentence', None)
+    if urgency is None:
+        abort(403)
+    else:
+        result_tuple = get_urgency(urgency)
+        return jsonify({
+            'status': 'OK',
+            'statement': result_tuple[0],
+            'keywords': result_tuple[1],
+            'sentiment': result_tuple[2],
+            'urgency': result_tuple[3],
+        })
