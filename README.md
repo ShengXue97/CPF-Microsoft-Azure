@@ -1,11 +1,19 @@
-# CPF-Microsoft-Azure
-Code for CPF Hackathon 2020 (Urgency checker for support tickets) : https://www.cpf.gov.sg/Members/Others/member-pages/cpf-hackathon-2020
+---
+page_type: sample
+description: "This is a minimal sample app that demonstrates how to run a Python Flask application on Azure App Service on Linux."
+languages:
+- python
+products:
+- azure
+- azure-app-service
+---
 
-# Urgency checker
-1. Classify problems and feedbacks into an urgency level from 1-10.
- a) User self classify(Everyone may just put as very urgent?)
- b) Text analysis to analysis & classify(Natural Language Processing)
-  So that technical staff can prioritise what queries / issues to resolve first
+# Python Flask sample for Azure App Service (Linux)
 
-https://github.com/karolzak/support-tickets-classification
-This case study shows how to create a model for text analysis and classification and deploy it as a web service in Azure cloud in order to automatically classify support tickets. This project is a proof of concept made by Microsoft (Commercial Software Engineering team) in collaboration with Endava
+This is a minimal sample app that demonstrates how to run a Python Flask application on Azure App Service on Linux.
+
+For more information, please see the [Python on App Service quickstart](https://docs.microsoft.com/azure/app-service/containers/quickstart-python).
+
+## Contributing
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.

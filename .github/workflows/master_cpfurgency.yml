@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'cpfurgency'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2ff1cb84bd77411299fede352190b7f0 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e1b922066ba244e3afa3f1e3b9bf4604 }}
