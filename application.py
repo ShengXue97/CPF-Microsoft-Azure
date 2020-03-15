@@ -222,7 +222,7 @@ from flask import Flask, request, abort, jsonify
 app = Flask(__name__)
 
 @app.route("/")
-def hello():
+def index():
     return "Welcome to CPF Urgency Prediction Service!"
 
 @app.route("/urgency", methods=["POST"])
@@ -239,3 +239,6 @@ def urgency():
             'sentiment': result_tuple[2],
             'urgency': result_tuple[3],
         })
+
+# if __name__ == '__main__':
+#     app.run(debug=False, port=9000)
