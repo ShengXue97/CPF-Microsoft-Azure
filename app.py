@@ -54,6 +54,7 @@ total_cnts_features_u2 = int(total_cnts_features['u2'])
 total_cnts_features_u3 = int(total_cnts_features['u3'])
 total_cnts_features_u4 = int(total_cnts_features['u4'])
 total_cnts_features_u5 = int(total_cnts_features['u5'])
+nltk.download('punkt')
 
 def predict_urgency(sentence):
     new_word_list = word_tokenize(sentence)
