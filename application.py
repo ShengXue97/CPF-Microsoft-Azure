@@ -185,3 +185,6 @@ app = Flask(__name__)
 @app.route("/")
 def hello():
     return "Welcome to CPF Urgency Prediction Service!"
+
+if __name__ == '__main__':
+    app.run(debug=False, port=8668)
