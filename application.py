@@ -2,7 +2,6 @@ from sklearn.feature_extraction.text import CountVectorizer
 import csv
 import nltk
 from nltk.tokenize import word_tokenize
-import tkinter as tk
 import pandas as pd
 import requests
 # pprint is used to format the JSON response
@@ -10,6 +9,7 @@ from pprint import pprint
 import os
 import pandas as pd
 import numpy as np
+from flask import Flask, abort, jsonify
 
 subscription_key = "cd0cf9855b244aa28c017742ed7a904c"
 endpoint = "https://cpftext.cognitiveservices.azure.com/"
@@ -136,36 +136,6 @@ def predict_urgency(sentence):
     elif max_prob == u4_prob:
         return 4
     return 5
-
-root= tk.Tk()
-
-canvas1 = tk.Canvas(root, width = 200, height = 150)
-canvas1.pack()
-
-entry1 = tk.Entry (root) 
-canvas1.create_window(100, 50, window=entry1)
-title = tk.Label(root, text= "Enter ticket sentence to\n get urgency level!")
-canvas1.create_window(100, 20, window=title)
-    
-def call_urgency_predictor ():  
-    x1 = entry1.get()
-    print("Statement: " + x1)
-    keys = extract_keywords(x1)
-    print("Keywords: " + keys)
-    sentiment = extract_sentiment(x1)
-    print("Sentiment: " + str(sentiment))
-    urgency_level = predict_urgency(keys)
-    print("Original urgency: " + str(urgency_level))
-    
-    # Sentiment is between 0 and 1, higher score means more positive sentiment. So, higher score means less urgent
-    urgency_level_final = round(urgency_level + ((1 - sentiment) * 5))
-    print("Urgency with sentiment: " + str(urgency_level_final))
-    print("-------------------------")
-    label1 = tk.Label(root, text= "Urgency Level: " + str(urgency_level_final))
-    canvas1.create_window(100, 120, window=label1)
-    
-def enter_button(event):
-    call_urgency_predictor()
     
 def extract_keywords(sentence):
     documents = {"documents": [
@@ -209,36 +179,9 @@ def get_urgency(x1):
     print("-------------------------")
     return x1, keys, str(sentiment), str(urgency_level)
 
-# button1 = tk.Button(text='Get urgency level', command=call_urgency_predictor)
-# root.bind('<Return>', enter_button)
-# canvas1.create_window(100, 80, window=button1)
-
-# root.mainloop()
-
-get_urgency("I want my cpf money now")
-
-from flask import Flask, request, abort, jsonify
 
 app = Flask(__name__)
 
 @app.route("/")
 def hello():
     return "Welcome to CPF Urgency Prediction Service!"
-
-@app.route("/urgency", methods=["POST"])
-def urgency():
-    urgency = request.json.get('sentence', None)
-    if urgency is None:
-        abort(403)
-    else:
-        result_tuple = get_urgency(urgency)
-        return jsonify({
-            'status': 'OK',
-            'statement': result_tuple[0],
-            'keywords': result_tuple[1],
-            'sentiment': result_tuple[2],
-            'urgency': result_tuple[3],
-        })
-
-# if __name__ == '__main__':
-#     app.run(debug=False, port=9000)
