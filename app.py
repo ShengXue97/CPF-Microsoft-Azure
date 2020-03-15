@@ -10,6 +10,7 @@ import os
 import pandas as pd
 import numpy as np
 from flask import Flask, request, abort, jsonify
+import math
 
 subscription_key = "cd0cf9855b244aa28c017742ed7a904c"
 endpoint = "https://cpftext.cognitiveservices.azure.com/"
@@ -129,14 +130,14 @@ def predict_urgency(sentence):
 
     max_prob = max(u1_prob, u2_prob, u3_prob, u4_prob, u5_prob)
     if max_prob == u1_prob:
-        return 1
+        return 0
     elif max_prob == u2_prob:
-        return 2
+        return 1
     elif max_prob == u3_prob:
-        return 3
+        return 2
     elif max_prob == u4_prob:
-        return 4
-    return 5
+        return 3
+    return 4
     
 def extract_keywords(sentence):
     documents = {"documents": [
