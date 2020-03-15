@@ -16,7 +16,7 @@ endpoint = "https://cpftext.cognitiveservices.azure.com/"
 
 sentiment_url = endpoint + "/text/analytics/v2.1/sentiment"
 language_api_url = endpoint + "/text/analytics/v2.1/languages"
-keyphrase_url = endpoint + "/text/analytics/v2.1/keyphrases".
+keyphrase_url = endpoint + "/text/analytics/v2.1/keyphrases"
 
 freq_u1 = {}
 with open('u1_word_frequencies.csv', mode='r') as infile:
