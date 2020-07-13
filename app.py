@@ -12,7 +12,7 @@ import numpy as np
 from flask import Flask, request, abort, jsonify
 import math
 
-subscription_key = "cd0cf9855b244aa28c017742ed7a904c"
+subscription_key = "7c59cfce389144619efad75105598f30"
 endpoint = "https://cpftext.cognitiveservices.azure.com/"
 
 sentiment_url = endpoint + "/text/analytics/v2.1/sentiment"
