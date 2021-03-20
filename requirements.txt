@@ -6,7 +6,7 @@ Requests==2.23.0
 scikit_learn==0.22.2.post1
 click==6.7
 itsdangerous==0.24
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.0
 Werkzeug==0.15.3
 gunicorn==19.1.0
